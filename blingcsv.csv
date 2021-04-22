@@ -1,0 +1,21 @@
+ID,Codigo,Descricao,Unidade,Classificacao_fiscal,Origem,Preco,Valor_IPI_fixo,Observacoes,Situacao,Estoque,Preco_de_custo,Cod_no_fornecedor,Fornecedor,Localizacao,Estoque_maximo,Estoque_minimo,Peso_liquido_kg,Peso_bruto_kg,GTIN_EAN,GTIN_EAN_da_embalagem,Largura_do_ Produto,Altura_do_Produto,Profundidade_do_produto,Data_Validade,Descricao_do_Produto_no_Fornecedor,Descricao_Complementar,Unidade_por_Caixa,Produto_Variacao,Tipo_Producao,Classe_de_enquadramento_do_IPI,Codigo_da_lista_de_servicos,"Tipo_do_item,Grupo de Tags/Tags",Tributos,Código Pai,Código Integração,Grupo de Produtos,Marca,CEST,Volumes,Descriçãoo curta,Cross-Docking,URL Imagens Externas,Link Externo,Meses Garantia,Clonar dados do pai,Condição do produto,Frete Grátis,Número FCI,Vídeo,Departamento,Unidade de medida,Preço de compra,Valor base ICMS ST para retenÃ§Ã£o,Valor ICMS ST para retenção,Valor ICMS próprio do substituto
+,1660,VE ADRIANA (MAR),UN,,0,"179,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1654,CONJ ADA (MAR),UN,,0,"169,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1661,MAC AFONSA (NA),UN,,0,"159,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1663,CONJ AFRA (NAR),UN,,0,"159,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1658,CONJ ADILIA (TAT),UN,,0,"159,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1664,VE AFRICANA (NAR),UN,,0,"139,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1665,CAL AGATA (MAR),UN,,0,"129,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1668,CONJ AGNES (MAR),UN,,0,"179,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1675,BL ALBERTA (NAR),UN,,0,"74,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1670,VE ATRIZA (JN),UN,,0,"139,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1673,CONJ ALANA (MAR),UN,,0,"169,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1674,VE ALBA (JU),UN,,0,"159,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1676,VE ALBERTINA (NAR),UN,,0,"129,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1669,BL.AIDE (SIM),UN,,0,"69,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1669,BL.AIDE (SIM),UN,,0,"69,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1677,CAL ALCINA (SIM),UN,,0,"99,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1679,MAC ALDA (MAR),UN,,0,"129,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1678,BL ALCIONE (TAT),UN,,0,"84,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1682,BL ALDENORA (MAR),UN,,0,"69,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1680,CAM ALDARA (SIM),UN,,0,"144,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
