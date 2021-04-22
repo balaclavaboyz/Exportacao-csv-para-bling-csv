@@ -1,5 +1,5 @@
 import os
-
+import sys
 import requests
 import pandas as pd
 import chardet
@@ -8,11 +8,15 @@ from csv import writer
 #TODO preencher o campo: Classificacao_fiscal
 #TODO integracao com o API para automatizacao
 #TODO receber args para o input de nomes dos arquivos
+#TODO monstrar erro se USER colocar mais linhas que existe no arquivo e monstrar quando linhas eh possivel monstrar
 
+#order de args do USER
+# 1 - arquivo de origem
+# 2 - quantidade de linhas para printar
 
-quantidade_de_items_finais = 20
+quantidade_de_items_finais = int(sys.argv[2])
 nome_do_arquivo_final = 'blingcsv.csv'
-nome_do_arquivo_original = 'PRODUTO MILVEST 20 04 2021 15 23.csv'
+nome_do_arquivo_original = str(sys.argv[1])
 
 
 def append_list_as_row(file_name, list_of_elem):
@@ -224,8 +228,7 @@ def main():
 
     integracao(objecto_final)
 
-    printar_o_csv(nome_do_arquivo_final)
-
+    #printar_o_csv(nome_do_arquivo_final)
 
 if __name__ == "__main__":
     main()
