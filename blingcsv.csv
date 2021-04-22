@@ -1,4 +1,14 @@
 ID,Codigo,Descricao,Unidade,Classificacao_fiscal,Origem,Preco,Valor_IPI_fixo,Observacoes,Situacao,Estoque,Preco_de_custo,Cod_no_fornecedor,Fornecedor,Localizacao,Estoque_maximo,Estoque_minimo,Peso_liquido_kg,Peso_bruto_kg,GTIN_EAN,GTIN_EAN_da_embalagem,Largura_do_ Produto,Altura_do_Produto,Profundidade_do_produto,Data_Validade,Descricao_do_Produto_no_Fornecedor,Descricao_Complementar,Unidade_por_Caixa,Produto_Variacao,Tipo_Producao,Classe_de_enquadramento_do_IPI,Codigo_da_lista_de_servicos,"Tipo_do_item,Grupo de Tags/Tags",Tributos,Código Pai,Código Integração,Grupo de Produtos,Marca,CEST,Volumes,Descriçãoo curta,Cross-Docking,URL Imagens Externas,Link Externo,Meses Garantia,Clonar dados do pai,Condição do produto,Frete Grátis,Número FCI,Vídeo,Departamento,Unidade de medida,Preço de compra,Valor base ICMS ST para retenÃ§Ã£o,Valor ICMS ST para retenção,Valor ICMS próprio do substituto
+,1505B,BL SEVERA,UN,,0,0,0,,Ativo,0,0,,,,0,0,0,0,nan,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1636,BL. ZELIA,UN,,0,"69,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1632,VE ZENAIDE(SIM),UN,,0,"159,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1377S,SAIA MALU,UN,,0,"79,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2020,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1633,VE ZENIA,UN,,0,"129,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1628,VE ZAMY (TAT),UN,,0,"149,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1637,CAL ZARINA (SIM),UN,,0,"109,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1631,VE ZELINDA (HG),UN,,0,"139,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1634,VE ZILA (MAR),UN,,0,"139,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
+,1638,VE ZENIA (SIM),UN,,0,"139,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
 ,1635,CAS ZILDA (JN),UN,,0,"129,9",0,,Ativo,0,0,,,,0,0,0,0,INVERNO 2021,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
 ,1639,VE ZITA (MAR),UN,,0,"129,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0
 ,1642,VE ZOLA (MAR),UN,,0,"159,9",0,,Ativo,0,0,,,,0,0,0,0,VERAO 20/21,,,0,Produto,,,,,,,,0,,,0,0,0,0,,,0,Não,NOVO,Não,,,,,0,0,0,0

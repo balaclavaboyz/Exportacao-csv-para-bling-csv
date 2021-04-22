@@ -1,6 +1,7 @@
 # Exportacao-csv-para-bling-csv
 
 importar arquivo csv para a plataforma bling
+mas apenas usa os ultimos produtos atualizados
 
 ## Como funciona
 
